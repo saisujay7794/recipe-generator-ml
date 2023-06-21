@@ -25,6 +25,7 @@
       <li>Install Anaconda Prompt (minicondapy 3.8)</li>
       <li>Set path to your project folder</li>
       <li>pip install -r requirements.txt</li>
+      <li>pip install protobuf==3.20.*</li>
       <li>conda create -n "fy" python = 3.8.5</li>
       <li>conda activate fy</li>
       <li>streamlit run flavourology.py</li>

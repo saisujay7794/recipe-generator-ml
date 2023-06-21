@@ -1,12 +1,12 @@
   <div class="banner">
-    <h1>Flavorology - Recipe Generation Web App</h1>
+    <h1>Flavorology - A Recipe Generator using ML</h1>
     <p>A web application that generates delicious recipes based on available ingredients.</p>
   </div>
 
   <div class="features">
     <h2>Features</h2>
     <ul>
-      <li>Generate recipes based on available ingredients or user-provided input image.</li>
+      <li>Generate recipes based on available ingredients.</li>
       <li>Search recipes by ingredients or cuisine.</li>
     </ul>
   </div>

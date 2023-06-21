@@ -32,7 +32,6 @@
     </ul>
   </div>
   
-  <h2>Application view</h2>
 ![home1](https://github.com/saisujay7794/recipe-generator-ml/assets/84466055/d49b7d17-5e2e-49fd-8be4-b85c55ae3096)
     <br>
 ![home2](https://github.com/saisujay7794/recipe-generator-ml/assets/84466055/d9fba3ef-e4ba-49cc-b3ae-ce7b9d41c14e)

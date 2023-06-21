@@ -32,10 +32,8 @@
     </ul>
   </div>
 
-  <div class="application-page">
     <h2>Application view</h2>
     ![04](https://github.com/saisujay7794/recipe-generator-ml/assets/84466055/9e0aa719-40a4-4a4a-b73c-a8b3ed33b807)
     <br>
     ![05](https://github.com/saisujay7794/recipe-generator-ml/assets/84466055/9b57b448-6cc8-453a-bc7e-420c326116c7)
     
-  </div>

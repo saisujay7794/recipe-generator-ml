@@ -30,3 +30,8 @@
       <li>streamlit run flavourology.py</li>
     </ul>
   </div>
+
+  <div class="application-page">
+    <h2>Application view</h2>
+    
+  </div>

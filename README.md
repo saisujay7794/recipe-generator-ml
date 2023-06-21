@@ -34,5 +34,7 @@
 
   <div class="application-page">
     <h2>Application view</h2>
+    ![04](https://github.com/saisujay7794/recipe-generator-ml/assets/84466055/db751b32-dd77-419f-8229-85cb8150649b)
+    <br>
     
   </div>

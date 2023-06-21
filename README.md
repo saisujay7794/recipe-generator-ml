@@ -20,7 +20,7 @@
   </div>
   
   <div class="get-started">
-    <h2>Requirement Specifications</h2>
+    <h2>Get Started</h2>
     <ul>
       <li>Install Anaconda Prompt (minicondapy 3.8)</li>
       <li>Set path to your project folder</li>

@@ -1,3 +1,4 @@
+![home2](https://github.com/saisujay7794/recipe-generator-ml/assets/84466055/d9fba3ef-e4ba-49cc-b3ae-ce7b9d41c14e)
   <div class="banner">
     <h1>Flavorology - A Recipe Generator using ML</h1>
     <p>A web application that generates delicious recipes based on available ingredients.</p>
@@ -33,7 +34,7 @@
   </div>
   <div class="app-view">
     <h2>Application view</h2>
-    ![04](https://github.com/saisujay7794/recipe-generator-ml/assets/84466055/9e0aa719-40a4-4a4a-b73c-a8b3ed33b807)
+    ![home1](https://github.com/saisujay7794/recipe-generator-ml/assets/84466055/d49b7d17-5e2e-49fd-8be4-b85c55ae3096)
     <br>
-    ![05](https://github.com/saisujay7794/recipe-generator-ml/assets/84466055/9b57b448-6cc8-453a-bc7e-420c326116c7)
+    ![home2](https://github.com/saisujay7794/recipe-generator-ml/assets/84466055/d9fba3ef-e4ba-49cc-b3ae-ce7b9d41c14e)
   </div>  
